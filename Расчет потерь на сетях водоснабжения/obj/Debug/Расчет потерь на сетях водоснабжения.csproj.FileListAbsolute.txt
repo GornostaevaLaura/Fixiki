@@ -1,0 +1,21 @@
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\bin\Debug\Расчет потерь на сетях водоснабжения.exe.config
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\bin\Debug\Расчет потерь на сетях водоснабжения.exe
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\bin\Debug\Расчет потерь на сетях водоснабжения.pdb
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет потерь на сетях водоснабжения.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет потерь на сетях водоснабжения.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.Properties.Resources.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.Start.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет потерь на сетях водоснабжения.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет потерь на сетях водоснабжения.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет потерь на сетях водоснабжения.exe
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет потерь на сетях водоснабжения.pdb
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice1.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice2.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice3.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice4.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice5.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice6.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice7.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.Form1.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice9.resources
+C:\Users\Иван\source\repos\Расчет потерь на сетях водоснабжения\obj\Debug\Расчет_потерь_на_сетях_водоснабжения.choice10.resources
